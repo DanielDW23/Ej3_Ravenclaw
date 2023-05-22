@@ -68,7 +68,7 @@ Nota: _El puerto 3000 puede cambiar si ya está en uso, en ese caso, aparecerá 
 </p>
 
 
-  ### PROYECTO
+  ### APLICACIÓN
   
   <p align="center" >
 
